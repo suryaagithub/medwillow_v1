@@ -1,0 +1,326 @@
+[
+  {
+    "theme": "Aura/Light",
+    "pair": "text/bg",
+    "ratio": 13.63,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "text/surface",
+    "ratio": 14.28,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "muted/bg",
+    "ratio": 5.79,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "muted/surface",
+    "ratio": 6.06,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "accentText/soft",
+    "ratio": 5.93,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "onPrimary/primary",
+    "ratio": 4.76,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "heroText/hero",
+    "ratio": 4.76,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "goodText/goodBg",
+    "ratio": 6.27,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Light",
+    "pair": "reviewText/reviewBg",
+    "ratio": 6.51,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "text/bg",
+    "ratio": 16.16,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "text/surface",
+    "ratio": 13.84,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "muted/bg",
+    "ratio": 9.07,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "muted/surface",
+    "ratio": 7.77,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "accentText/soft",
+    "ratio": 6.38,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "onPrimary/primary",
+    "ratio": 7.52,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "heroText/hero",
+    "ratio": 10.56,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "goodText/goodBg",
+    "ratio": 8.04,
+    "passNormalText": true
+  },
+  {
+    "theme": "Aura/Dark",
+    "pair": "reviewText/reviewBg",
+    "ratio": 8.36,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "text/bg",
+    "ratio": 14.15,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "text/surface",
+    "ratio": 14.95,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "muted/bg",
+    "ratio": 5.63,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "muted/surface",
+    "ratio": 5.94,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "accentText/soft",
+    "ratio": 6.18,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "onPrimary/primary",
+    "ratio": 5.73,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "heroText/hero",
+    "ratio": 5.73,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "goodText/goodBg",
+    "ratio": 6.27,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Light",
+    "pair": "reviewText/reviewBg",
+    "ratio": 6.51,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "text/bg",
+    "ratio": 16.04,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "text/surface",
+    "ratio": 13.77,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "muted/bg",
+    "ratio": 9.29,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "muted/surface",
+    "ratio": 7.97,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "accentText/soft",
+    "ratio": 6.91,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "onPrimary/primary",
+    "ratio": 7.12,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "heroText/hero",
+    "ratio": 10.87,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "goodText/goodBg",
+    "ratio": 8.04,
+    "passNormalText": true
+  },
+  {
+    "theme": "Iris/Dark",
+    "pair": "reviewText/reviewBg",
+    "ratio": 8.36,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "text/bg",
+    "ratio": 12.48,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "text/surface",
+    "ratio": 13.14,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "muted/bg",
+    "ratio": 5.48,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "muted/surface",
+    "ratio": 5.77,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "accentText/soft",
+    "ratio": 5.41,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "onPrimary/primary",
+    "ratio": 5.17,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "heroText/hero",
+    "ratio": 5.17,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "goodText/goodBg",
+    "ratio": 6.27,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Light",
+    "pair": "reviewText/reviewBg",
+    "ratio": 6.51,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "text/bg",
+    "ratio": 15.9,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "text/surface",
+    "ratio": 13.21,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "muted/bg",
+    "ratio": 9.41,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "muted/surface",
+    "ratio": 7.82,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "accentText/soft",
+    "ratio": 7.37,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "onPrimary/primary",
+    "ratio": 8.27,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "heroText/hero",
+    "ratio": 9.83,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "goodText/goodBg",
+    "ratio": 8.04,
+    "passNormalText": true
+  },
+  {
+    "theme": "Coastal/Dark",
+    "pair": "reviewText/reviewBg",
+    "ratio": 8.36,
+    "passNormalText": true
+  }
+]

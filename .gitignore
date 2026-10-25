@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.expo/
+.env
+.env.local
+__pycache__/
+.venv/
+*.sqlite3
+.DS_Store
+*.tsbuildinfo
+test-results/
+playwright-report/

@@ -1,0 +1,1 @@
+{"expo":{"name":"MedWillow","slug":"medwillow","version":"0.1.0","orientation":"default","scheme":"medwillow","userInterfaceStyle":"automatic","ios":{"supportsTablet":true,"bundleIdentifier":"com.medwillow.demo"},"android":{"package":"com.medwillow.demo"},"web":{"bundler":"metro","name":"MedWillow Mobile Preview"},"plugins":["expo-document-picker"]}}

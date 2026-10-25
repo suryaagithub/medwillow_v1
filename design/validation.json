@@ -1,0 +1,28 @@
+{
+  "screenCount": 12,
+  "screenDimensions": [
+    "390×1040"
+  ],
+  "descendantCount": 1341,
+  "counts": {
+    "FRAME": 569,
+    "TEXT": 400,
+    "INSTANCE": 96,
+    "VECTOR": 276
+  },
+  "imageNodes": [],
+  "fontFamilies": [
+    "Inter"
+  ],
+  "identicalContent": {
+    "Home": true,
+    "Records": true
+  },
+  "checkedTextPairs": 372,
+  "minimumContrast": 4.759664797211404,
+  "mismatches": [],
+  "contrastFailures": [],
+  "overflows": [],
+  "visualReview": "Passed after theme inheritance and status badge fixes",
+  "lastFix": "Needs-review badges explicitly use each theme's reviewBg/reviewText tokens."
+}
